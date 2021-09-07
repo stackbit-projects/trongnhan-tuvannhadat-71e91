@@ -137,5 +137,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://trongnhannhadat.com"
+    "domain": "https://trongnhannhadat.com",
+    "favicon": "/images/Favicon.png"
 }
