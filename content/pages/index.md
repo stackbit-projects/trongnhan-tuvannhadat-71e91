@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: 'Xin chào quý Anh/Chị! Tôi là Trọng Nhân, chuyên gia tư vấn nhà đất.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Với kinh nghiệm làm việc 15 năm và lượng thông tin dồi dào, tôi sẽ giúp
+      được hầu hết những nhu cầu liên quan mua bán nhà đất tại khu vực Thạch
+      Thất và Hòa Lạc.
     actions:
       - label: Contact Me
         url: /contact
