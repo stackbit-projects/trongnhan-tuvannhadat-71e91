@@ -8,7 +8,7 @@ sections:
       được hầu hết những nhu cầu liên quan mua bán nhà đất tại khu vực Thạch
       Thất và Hòa Lạc.
     actions:
-      - label: Contact Me
+      - label: Liên hệ ngay
         url: /contact
         style: primary
     image: images/hero.png
