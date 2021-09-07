@@ -221,7 +221,10 @@ seo:
       value: Trọng Nhân nhà đất
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Chuyên gia tư vấn nhà đất khu vực Thạch Thất - Hòa Lạc. Với 15 năm kinh
+        nghiệm và lượng thông tin phong phú. Giúp quý vị mua bán đầu tư nhà đất
+        hiệu quả.
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
